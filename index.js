@@ -5,6 +5,7 @@ function showModal() {
   $("#overlay").removeClass("hide");
   $("body").addClass("prevent-scroll");
   $("#closeSVG").removeClass("hide");
+  $("#hamburgerSVG").addClass("hide");
 }
 
 function hideModal() {

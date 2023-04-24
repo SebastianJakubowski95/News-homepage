@@ -245,13 +245,13 @@ li a {
   height: 100vh;
   right: 0;
   background-color: #ffffff;
-  left: 50%;
+  left: 40%;
   z-index: 20;
 }
 #overlay ul {
   display: flex;
   flex-direction: column;
-  padding: 15vh 0 0 3rem;
+  padding: 20vh 0 0 3rem;
 }
 #hamburgerSVG {
   cursor: pointer;
