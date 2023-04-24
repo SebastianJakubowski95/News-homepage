@@ -13,6 +13,7 @@ function hideModal() {
   $("#overlay").addClass("hide");
   $("body").removeClass("prevent-scroll");
   $("#closeSVG").addClass("hide");
+  $("#hamburgerSVG").removeClass("hide");
 }
 
 if (w <= 768) {
